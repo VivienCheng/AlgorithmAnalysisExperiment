@@ -1,23 +1,6 @@
 #include<iostream>
 #include<algorithm>
 #include<cstdio>
-/*
-#include<sstream>
-#include<cstring>
-#include<string>
-#include<cmath>
-#include<cstdlib>
-#include<iomanip>
-#include<typeinfo>
-#include<time.h>
-#include<map>
-#include<vector>
-using namespace std;
-typedef long long ll;
-typedef unsigned long long llu;
-#define inf 0x3f3f3f3f
-#define PI 3.14
-*/
 using namespace std;
 const int maxn = 1000 + 8;
 

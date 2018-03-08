@@ -4,23 +4,7 @@
 #include <algorithm>
 using namespace std;
 typedef long long ll;
-/*
-#include<sstream>
-#include<cstring>
-#include<string>
-#include<cmath>
-#include<cstdlib>
-#include<iomanip>
-#include<typeinfo>
-#include<time.h>
-#include<map>
-#include<vector>
-using namespace std;
-typedef long long ll;
-typedef unsigned long long llu;
-#define inf 0x3f3f3f3f
-#define PI 3.14
-*/
+
 const int maxn = 1e5 + 8;
 int n,q,x,num;
 int s[maxn];
@@ -96,11 +80,12 @@ int main()
     return 0;
 }
 /*
-输入样例:
+样例输入:
 5
 1 2 3 4 5
 3
 3 4 1
-输出结果:
+
+样例输出:
 3
 */

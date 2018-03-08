@@ -1,6 +1,7 @@
 #include<iostream>
 #include<queue>
 using namespace std;
+
 int n,x,y,sum;
 void See(priority_queue<int, vector<int>, greater<int> > p)
 {
@@ -38,7 +39,7 @@ int main()
     printf("The result is: %d\n",sum);
 }
 /*
-输入:
+样例输入:
 7
 7 6 5 4 3 2 1
 The process is:
@@ -49,5 +50,7 @@ The process is:
 7 9 12
 12 16
 28
-The result is: 102
+
+样例输出：
+102
 */

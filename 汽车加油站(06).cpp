@@ -2,6 +2,7 @@
 #include<queue>
 using namespace std;
 const int maxn = 1000 + 8;
+
 int n,k,x,ans,dist;
 int a[maxn];
 
@@ -37,8 +38,10 @@ int main()
     return 0;
 }
 /*
+样例输入：
 7 7
 1 2 3 4 5 1 6 6
-The result:
+
+样例输出：
 4
 */
